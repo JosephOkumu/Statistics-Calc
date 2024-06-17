@@ -42,7 +42,7 @@ The program computes the following statistics:
 
 ## Author
 
-- [@josotieno](https://learn.zone01kisumu.ke/git/josotieno/)
+- [@JosephOKumu](https://github.com/JosephOkumu/)
 
 ## License
 
